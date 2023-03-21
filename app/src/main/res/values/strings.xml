@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Flixter Plus</string>
+    <string name="most_popular_movies_this_week">Most Popular Movies This Week</string>
+    <string name="most_popular_tv_shows_this_week">Most Popular TV Shows This Week</string>
 </resources>
